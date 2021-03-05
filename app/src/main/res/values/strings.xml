@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InfectioMeter</string>
+    <string name="valitseAlue">Valitse alue </string>
+    <string name="hae">Hae</string>
+    <string name="vuosi2020">2020</string>
+    <string name="vuosi2021">2021</string>
+    <string name="syötä_viikko">Syötä viikkonumero</string>
+    <string name="eitietoja">Ei tietoja</string>
+    <string name="info">Jätä tyhjäksi nähdäksesi kaikkien aikojen määrän</string>
+
+
+    <string-array name="spinner_array">
+        <item>Kaikki Alueet</item>
+        <item>Ahvenanmaa</item>
+        <item>Varsinais-Suomen SHP</item>
+        <item>Satakunnan SHP</item>
+        <item>Kanta-Hämeen SHP</item>
+        <item>Pirkanmaan SHP</item>
+        <item>Päijät-Hämeen SHP</item>
+        <item>Kymenlaakson SHP</item>
+        <item>Etelä-Karjalan SHP</item>
+        <item>Etelä-Savon SHP</item>
+        <item>Itä-Savon SHP</item>
+        <item>Pohjois-Karjalan SHP</item>
+        <item>Pohjois-Savon SHP</item>
+        <item>Keski-Suomen SHP</item>
+        <item>Etelä-Pohjanmaan SHP</item>
+        <item>Vaasan SHP</item>
+        <item>Keski-Pohjanmaan SHP</item>
+        <item>Pohjois-Pohjanmaan SHP</item>
+        <item>Kainuun SHP</item>
+        <item>Länsi-Pohjan SHP</item>
+        <item>Lapin SHP</item>
+        <item>Helsingin ja Uudenmaan SHP</item>
+    </string-array>
+</resources>
